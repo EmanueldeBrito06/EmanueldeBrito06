@@ -1,7 +1,7 @@
-## Ola! I am is Emanuel de Brito👋
+## Olá! I am Emanuel de Brito 👋
 
-Trabalho como Desenvolvidor de Front-End
-<br>Estudante univercitario em Informática
+Trabalho como Desenvolvedor de Front-End
+<br>Estudante universitário em Engenharia Informática
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Emanuel.jv" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 
