@@ -1,6 +1,6 @@
 ## Olá! I am Emanuel de Brito 👋
 
-Trabalho como Desenvolvedor de Front-End
+Só designer e Desenvolvedor de Front-End
 <br>Estudante universitário em Engenharia Informática
 
 <div style="display: inline_block"><br>
